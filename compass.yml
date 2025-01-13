@@ -1,0 +1,16 @@
+name: test.codecave.by
+id: ari:cloud:compass:03d65e25-e64b-4f9b-a03c-ee77eb7ca52c:component/35f21fc9-0ad4-430a-b567-79e14ff0d558/ebc50cf1-ebec-43fa-a9bf-0525a012165d
+description: null
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/CodeCavePro/test.codecave.by
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
